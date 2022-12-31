@@ -1,9 +1,9 @@
 # AtliQo Telecom Analysis - PowerBI
 This project is done as part of the November month codebaiscs resume project challenge
 
-Challenge details - [Link]()
+Challenge details - [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Live Dashboard - [Link]()
+Live Dashboard - [Link](https://www.novypro.com/project/atliqo-telecom-analysis-1)
 
 Presentation video - [Link]()
 
@@ -23,7 +23,7 @@ Imagine yourself as Peter Pandey and perform the following task
 
 ## Data Model
 
-![Data_model](https://github.com/Naveen-S6/AtliQo_Telecom_Analysis_PowerBI/blob/main/resources/data_model.png)
+<img src ='https://github.com/Naveen-S6/AtliQo_Telecom_Analysis_PowerBI/blob/main/resources/data_model.png'>
 
 ## Dashboard Design
 ![main_page](https://github.com/Naveen-S6/AtliQo_Telecom_Analysis_PowerBI/blob/main/resources/1.png)
